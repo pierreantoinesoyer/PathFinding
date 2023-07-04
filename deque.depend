@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1688462114 source:c:\users\pierreantoine\onedrive\documents\formation\c\deque\main.cpp
+	<iostream>
+	<deque>
+	<Vector>
+	<windows.h>
+	"generation.h"
+	"Deque.h"
+	"dijkstra.h"
+
+1688386372 c:\users\pierreantoine\onedrive\documents\formation\c\deque\deque.h
+	"Point.h"
+	<deque>
+	<vector>
+
+1688135418 c:\users\pierreantoine\onedrive\documents\formation\c\deque\point.h
+
+1688464979 source:c:\users\pierreantoine\onedrive\documents\formation\c\deque\deque.cpp
+	<iostream>
+	"Deque.h"
+	<string>
+
+1688461832 source:c:\users\pierreantoine\onedrive\documents\formation\c\deque\dijkstra.cpp
+	<iostream>
+	<vector>
+	<deque>
+	<queue>
+	"Deque.h"
+	"dijkstra.h"
+
+1688462067 c:\users\pierreantoine\onedrive\documents\formation\c\deque\dijkstra.h
+	<vector>
+	"Deque.h"
+
+1688464029 source:c:\users\pierreantoine\onedrive\documents\formation\c\deque\generation.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	"Deque.h"
+	"generation.h"
+	<chrono>
+
+1688384831 c:\users\pierreantoine\onedrive\documents\formation\c\deque\generation.h
+	"Deque.h"
+
